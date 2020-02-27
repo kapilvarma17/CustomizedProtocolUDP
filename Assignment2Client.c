@@ -3,7 +3,6 @@ Computer Networks
 Programming Assignment 2: Client using customized protocol on top of UDP
 protocol for requesting identification from server for access permission to the network
 Name: KAPIL VARMA
-ID: 1483983
 */
 
 #include <sys/socket.h>
