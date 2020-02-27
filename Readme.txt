@@ -5,7 +5,7 @@ Programming Assignment 2: Client using customized protocol on top of UDP protoco
 Note: I ran this program in the Design Center: Linux Lab
 
 Name: KAPIL VARMA
-ID: 1483983
+ID: 14*****
 */
 
 The program contains two files one for the server and one for the client. Other than this it contains screenshots for the output of the program and also the input file for the data to be given by the client and the database file which contains the data to verify the details.
